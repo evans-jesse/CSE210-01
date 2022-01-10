@@ -1,0 +1,30 @@
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\bin\Debug\net6.0\JSE.TicTacToe.exe
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\bin\Debug\net6.0\JSE.TicTacToe.deps.json
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\bin\Debug\net6.0\JSE.TicTacToe.runtimeconfig.json
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\bin\Debug\net6.0\JSE.TicTacToe.dll
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\bin\Debug\net6.0\ref\JSE.TicTacToe.dll
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\bin\Debug\net6.0\JSE.TicTacToe.pdb
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.csproj.AssemblyReference.cache
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.AssemblyInfoInputs.cache
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.AssemblyInfo.cs
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.dll
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\obj\Debug\net6.0\ref\JSE.TicTacToe.dll
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.pdb
+C:\Users\mpeva\OneDrive\Documents\DotNet\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.genruntimeconfig.cache
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\bin\Debug\net6.0\JSE.TicTacToe.exe
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\bin\Debug\net6.0\JSE.TicTacToe.deps.json
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\bin\Debug\net6.0\JSE.TicTacToe.runtimeconfig.json
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\bin\Debug\net6.0\JSE.TicTacToe.dll
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\bin\Debug\net6.0\ref\JSE.TicTacToe.dll
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\bin\Debug\net6.0\JSE.TicTacToe.pdb
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.csproj.AssemblyReference.cache
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.AssemblyInfoInputs.cache
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.AssemblyInfo.cs
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.dll
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\obj\Debug\net6.0\ref\JSE.TicTacToe.dll
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.pdb
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\JSE.TicTacToe\obj\Debug\net6.0\JSE.TicTacToe.genruntimeconfig.cache
