@@ -1,0 +1,15 @@
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\bin\Debug\net6.0\TryingThingsOut.exe
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\bin\Debug\net6.0\TryingThingsOut.deps.json
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\bin\Debug\net6.0\TryingThingsOut.runtimeconfig.json
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\bin\Debug\net6.0\TryingThingsOut.dll
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\bin\Debug\net6.0\ref\TryingThingsOut.dll
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\bin\Debug\net6.0\TryingThingsOut.pdb
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\obj\Debug\net6.0\TryingThingsOut.csproj.AssemblyReference.cache
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\obj\Debug\net6.0\TryingThingsOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\obj\Debug\net6.0\TryingThingsOut.AssemblyInfoInputs.cache
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\obj\Debug\net6.0\TryingThingsOut.AssemblyInfo.cs
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\obj\Debug\net6.0\TryingThingsOut.csproj.CoreCompileInputs.cache
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\obj\Debug\net6.0\TryingThingsOut.dll
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\obj\Debug\net6.0\ref\TryingThingsOut.dll
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\obj\Debug\net6.0\TryingThingsOut.pdb
+C:\Users\yoda\OneDrive - BYU-Idaho\2022 Winter\Programming\C# Code\TryingThingsOut\obj\Debug\net6.0\TryingThingsOut.genruntimeconfig.cache
